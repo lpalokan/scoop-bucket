@@ -1,16 +1,19 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "BMad Manager — manage BMad-Method installs and agents.",
   "homepage": "https://github.com/lpalokan/bmad-manager",
   "license": "Unknown",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/lpalokan/bmad-manager/releases/download/v0.1.6/bmad-manager-windows-x64-portable.zip",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+      "url": "https://github.com/lpalokan/bmad-manager/releases/download/v0.1.7/bmad-manager-windows-x64-portable.zip",
+      "hash": "acef0bbe9a4f274b784dde953569bcc6016d8587ca08118803341798e36628e2"
     }
   },
   "shortcuts": [
-    ["bmad-manager.exe", "BMad Manager"]
+    [
+      "bmad-manager.exe",
+      "BMad Manager"
+    ]
   ],
   "checkver": "github",
   "autoupdate": {
